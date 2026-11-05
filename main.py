@@ -7,7 +7,7 @@ import math
 import sys
 
 pygame.init()
-print("test")
+print("rickroll test")
 # =========================
 # НАСТРОЙКИ ИГРЫ
 # =========================
