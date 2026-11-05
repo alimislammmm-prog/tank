@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # 1111
+# 333333
 import pygame
 import random
 import math
@@ -773,7 +774,6 @@ while True:
     )
 
     pygame.display.flip()
-=======
 
 import pygame
 import random
@@ -1548,4 +1548,3 @@ while True:
     )
 
     pygame.display.flip()
->>>>>>> ac5513964ff78330dbe5fc0059eb6388d1644b68
